@@ -14,10 +14,9 @@ By providing a safe and guided space, Sovereign Temple aims to:
 Restore each individual's sovereign connection to their source.
 Revive the beauty inherent in the original human design.
 Empower users to reclaim their full potential as human beings.
+
 🤝 How to Get Involved (For Contributors)
-Sovereign Temple is an open-source initiative built on the principle of collective creation. We welcome all individuals who are passionate about using technology for positive transformation. We are actively seeking contributions from talented and driven individuals.
-Role
-Skills & Technologies
+Sovereign Temple is an open-source initiative built on the principle of collective creation. We welcome all individuals who are passionate about using technology for positive transformation. We are actively seeking contributions from talented and driven individua
 Looking For...
 🧑‍💻 Developers
 Unity, C#, XR Development (Meta Quest, etc.)
